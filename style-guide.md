@@ -6,7 +6,7 @@ These are the actual habits behind my documentation, pulled from what I already 
 
 - Write like you're explaining it to a person, not filing a report. Short sentences, plain words, and explain any jargon the first time it shows up.
 - Keep it warm but professional. 
-- Say what something is in one plain sentence before getting into detail.
+- Say what something is in a few plain sentences before getting into detail. No need to force it into one line.
 
 ## Structure
 
