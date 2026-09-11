@@ -14,4 +14,4 @@ Good documentation shouldn't be reinvented every time. This repo holds the princ
 - `templates/tutorial-template.md`: a blank tutorial/how-to structure
 
 Feel free to borrow any of it.
-# documentation-style-guide
+
