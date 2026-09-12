@@ -9,6 +9,7 @@ Good documentation shouldn't be reinvented every time. This repo holds the princ
 ## What's in here
 
 - `style-guide.md`: the principles themselves, including how I use AI tools as part of the writing process
+- `ai-workflow-guide.md`: a practical guide to using AI tools like Claude and ChatGPT throughout a project, from planning through documentation
 - `templates/readme-template.md`: a blank, reusable README structure
 - `templates/api-doc-template.md`: a blank API reference structure
 - `templates/tutorial-template.md`: a blank tutorial/how-to structure
